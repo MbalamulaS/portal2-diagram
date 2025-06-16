@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.5" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.5" pages="10">
   <diagram id="o8VDRe50vAT0evo7GQXG" name="Itinary Creation">
-    <mxGraphModel dx="2212" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="1346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,106 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Partial CheckIn" id="KiZcu98RXCVor-IMkY5d">
+    <mxGraphModel dx="2212" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="swmsCML5HJa2df1Sol6c-0" />
+        <mxCell id="swmsCML5HJa2df1Sol6c-1" parent="swmsCML5HJa2df1Sol6c-0" />
+        <mxCell id="swmsCML5HJa2df1Sol6c-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="swmsCML5HJa2df1Sol6c-3" target="QpAu56bhHE_dWi4KMhe4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-419" y="2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-3" value="&lt;span&gt;&lt;font&gt;Start&lt;/font&gt;&lt;/span&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="-558" y="-17" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-4" value="&lt;span&gt;End&lt;/span&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="667" y="-15.5" width="73" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="swmsCML5HJa2df1Sol6c-6" target="swmsCML5HJa2df1Sol6c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-6" value="Capture Fingerprints" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="-224" y="-22" width="114" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="swmsCML5HJa2df1Sol6c-10" target="QpAu56bhHE_dWi4KMhe4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-10" value="Partial Checkout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="-73" y="-22" width="128" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startSize=8;endSize=8;fontStyle=1;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="swmsCML5HJa2df1Sol6c-15" target="swmsCML5HJa2df1Sol6c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-14" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="swmsCML5HJa2df1Sol6c-13">
+          <mxGeometry x="-0.2836" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-15" value="Valid?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="296" y="-38" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startSize=8;endSize=8;fontStyle=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" target="swmsCML5HJa2df1Sol6c-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572" y="2" as="sourcePoint" />
+            <mxPoint x="646" y="2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmsCML5HJa2df1Sol6c-17" value="Recheck-In" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="486" y="-28" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="QpAu56bhHE_dWi4KMhe4-1" target="swmsCML5HJa2df1Sol6c-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-3" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QpAu56bhHE_dWi4KMhe4-2">
+          <mxGeometry x="-0.0871" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-1" value="Active Permit?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="-415" y="-49" width="123" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="QpAu56bhHE_dWi4KMhe4-5" target="swmsCML5HJa2df1Sol6c-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-5" value="&lt;b&gt;Scan Finger to Recheck-In&lt;/b&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="swmsCML5HJa2df1Sol6c-1">
+          <mxGeometry x="121" y="-36" width="112" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="swmsCML5HJa2df1Sol6c-15" target="swmsCML5HJa2df1Sol6c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114" y="256" as="sourcePoint" />
+            <mxPoint x="164" y="206" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="90" />
+              <mxPoint x="704" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-8" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QpAu56bhHE_dWi4KMhe4-7">
+          <mxGeometry x="-0.9084" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="swmsCML5HJa2df1Sol6c-1" source="QpAu56bhHE_dWi4KMhe4-1" target="swmsCML5HJa2df1Sol6c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-155" y="-144" as="sourcePoint" />
+            <mxPoint x="213" y="-166" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-353" y="-85" />
+              <mxPoint x="704" y="-79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QpAu56bhHE_dWi4KMhe4-11" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QpAu56bhHE_dWi4KMhe4-9">
+          <mxGeometry x="-0.9774" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Bill and Payments" id="isD4XnIpkaDu3AuO83Xx">
     <mxGraphModel dx="2212" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,7 +256,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Reservation Cancellation" id="eQUqPby0MfiUXAKyfKSw">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nGcpeofksoNWgutC63UL-0" />
         <mxCell id="nGcpeofksoNWgutC63UL-1" parent="nGcpeofksoNWgutC63UL-0" />
@@ -191,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Check-In" id="y0lo2LuPj2kqJT-pw5u0">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WJafnOqP63Unvw65Ywop-0" />
         <mxCell id="WJafnOqP63Unvw65Ywop-1" parent="WJafnOqP63Unvw65Ywop-0" />
