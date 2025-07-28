@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.0" pages="2">
+  <diagram id="flowchart" name="Permit-Flowchart">
+    <mxGraphModel dx="1426" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="322" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Create Permit/Itenary" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Amend PAID Permit (optional)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="260" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Check In" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Mini Checkout&amp;nbsp; and CheckIn" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="650" y="340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Activities Addition (Optional)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Entry Extension (Optional)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="500" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Checkout" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="580" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Credit Note (Optional)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="660" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Inspection / Penalties" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="262" y="740" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="322" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="5" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="8" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="9" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="10" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontStyle=1;strokeWidth=3;fontSize=14;" parent="1" source="11" target="12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0SdPOO_Ok0l_uMrRZtYm-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="470" as="sourcePoint" />
+            <mxPoint x="580" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6O5lwAGXLSR_rRJi6o2c" name="Page-2">
+    <mxGraphModel dx="1426" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
